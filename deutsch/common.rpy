@@ -4,7 +4,7 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Self-voicing disabled."
+    new "Self-voicing disabled"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
